@@ -61,12 +61,7 @@ The **Business Insights 360 dashboard** serves as a single source of truth, enab
 2. **Real-World Exposure** – Understanding stakeholder interactions, project workflows, and business communication.  
 3. **End-to-End Analytics Workflow** – From requirement gathering → data modeling → visualization → storytelling.  
 
----
 
-## 🙏 Acknowledgments  
-Special thanks to **Dhaval Patel**, **Hemanand Vadivel**, and **Ashish Babaria** for their guidance and support throughout this project.  
-
----
 
 ## 🔗 Live Dashboard  
 You can explore the interactive dashboard here: [Power BI Report Link](https://app.powerbi.com/view?r=eyJrIjoiMTBlOGI5NmYtYzU4Yy00Nzg5LWE5MGQtZTNhMmZhOGY4NmNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
