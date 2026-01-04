@@ -7,11 +7,11 @@
   This project aims to deliver overall business performance by analyzing key areas such as finance, sales, marketing, and supply chain.  The goal is to identify trends, evaluate performance across various regions, and suggest actionable insights for improving overall business outcomes.
   
 **Objectives**
-  -Understand project workflow and requirement gathering.
-  -Analyze historical data to track business performance.
-  -Understand customer behavior and segmentation.
-  -Evaluate marketing effectiveness.
-  -Provide actionable insights to enhance decision-making.
+  - Understand project workflow and requirement gathering.
+  - Analyze historical data to track business performance.
+  - Understand customer behavior and segmentation.
+  - Evaluate marketing effectiveness.
+  - Provide actionable insights to enhance decision-making.
 
 ## Methodology
 1. **Data Collection:** Acquired data from various departments and verified the quality and completeness.
