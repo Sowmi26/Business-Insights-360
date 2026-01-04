@@ -1,68 +1,29 @@
-# Business Insights 360 – Power BI Project  
+# Business Insights 360 Project
 
-##  Project Overview  
-AtliQ Hardware is growing rapidly in recent years, and they have decided to implement **data analytics using Power BI** in their company for the first time to **surpass competitors** in the market and make **data-driven decisions**.  
+## Overview
+  The Business Insights 360 project focuses on building a comprehensive dashboard that includes various business functions enables better decision-making for stakeholders.  
 
-This project is designed to answer key stakeholder questions across multiple business aspects, including **Finance, Sales, Marketing, and Supply Chain**.  
+## Project Description
+  This project aims to deliver overall business performance by analyzing key areas such as finance, sales, marketing, and supply chain.  The goal is to identify trends, evaluate performance across various regions, and suggest actionable insights for improving overall business outcomes.
+  
+**Objectives**
+  -Understand project workflow and requirement gathering.
+  -Analyze historical data to track business performance.
+  -Understand customer behavior and segmentation.
+  -Evaluate marketing effectiveness.
+  -Provide actionable insights to enhance decision-making.
 
-The **Business Insights 360 dashboard** serves as a single source of truth, enabling stakeholders to analyze business performance, identify growth opportunities, and optimize operations effectively.  
+## Methodology
+1. **Data Collection:** Acquired data from various departments and verified the quality and completeness.
+2. **Data Cleaning:** Handled missing data, outliers, and data inconsistencies to ensure accuracy.
+3. **Data Exploration:** Performed initial exploratory data analysis (EDA) to understand patterns and trends.
+4. **Data Modeling:** Applied statistical methods and business intelligence techniques to generate insights.
+5. **Visualization:** Used Power BI and Excel to create visual representations of the key findings.
+6. **Analysis:** Analyzed the data to uncover correlations, trends, and performance gaps.
 
----
+## Resources
+- Live Power BI Dashboard: [Business Insights 360](https://app.powerbi.com/view?r=eyJrIjoiMTBlOGI5NmYtYzU4Yy00Nzg5LWE5MGQtZTNhMmZhOGY4NmNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=048e49c5f67def0dfa33)
+- Video Presentation: [Click Here to view the video](https://www.youtube.com/watch?v=-wdbiPVsMZ4)
 
-##  Objectives  
-- Build a 360° view of business performance (Finance, Sales, Marketing, Supply Chain).  
-- Apply **Power BI** concepts like DAX, data modeling, and advanced visualizations.  
-- Develop a structured approach to **stakeholder communication & requirement gathering**.  
-- Deliver a professional dashboard with actionable insights for decision-making.  
-
----
-
-## Tools & Technologies  
-- **Excel** – Initial data exploration & cleaning  
-- **Power BI Desktop** – Data visualization & dashboard creation  
-- **SQL** – Querying & preparing datasets  
-- **DAX Studio** – Query optimization and performance tuning  
-- **Project Charter** – For requirement documentation & project planning  
-
----
-
-## Power BI Concepts Applied  
-- Power Query for data cleaning & transformation  
-- DAX functions for calculations (CALCULATE, FILTER, ALL, ALLEXCEPT, etc.)  
-- Data modeling (Star Schema & Snowflake Schema)  
-- Data warehouse concepts (OLAP, OLTP, Data Catalog)  
-- Report optimization techniques  
-- Bookmarks, buttons, and page navigation for interactivity  
-- Dynamic slicers, measures, parameters, and tooltips  
-- Dashboard design rules for effective communication  
-
----
-
-##  Business Concepts Learned  
-- Profit & Loss Statements  
-- Year-to-Date (YTD) and Year-to-Go (YTG) calculations  
-- Gross Margin analysis  
-- User Acceptance Testing (UAT)  
-- Business fundamentals across **Finance, Sales, Marketing, and Supply Chain**  
-- Effective communication with stakeholders to align requirements with deliverables  
-
----
-
-## Key Deliverables  
-- **Customer Performance View**: Highlighted top and bottom customers with dynamic slicers.  
-- **Product Performance View**: Toggle feature to switch between **Top 5 and Bottom 5 products** across top-performing countries.  
-- **Sales Trend View**: Post-discount % sales trend analysis with slicers to filter by customers.  
-- **Filter Pane (using bookmarks)**: Implemented based on insights from the *Enhanced BI 360 webinar* by Ashish Babaria.  
-
----
-
-## Key Learnings  
-1. **Problem-Solving Mindset** – Learning to figure out solutions independently rather than just following instructions.  
-2. **Real-World Exposure** – Understanding stakeholder interactions, project workflows, and business communication.  
-3. **End-to-End Analytics Workflow** – From requirement gathering → data modeling → visualization → storytelling.  
-
-
-
-## Live Dashboard  
-You can explore the interactive dashboard here: [Power BI Report Link](https://app.powerbi.com/view?r=eyJrIjoiMTBlOGI5NmYtYzU4Yy00Nzg5LWE5MGQtZTNhMmZhOGY4NmNhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
+## Contact
+[LinkedIn](https://www.linkedin.com/in/sowmiyamuralidharan/)
